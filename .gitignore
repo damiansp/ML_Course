@@ -3,6 +3,7 @@
 *~
 *.gl
 *.csv
+*.npz
 *_data
 notes.txt
 feedback.txt
