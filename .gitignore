@@ -1,13 +1,19 @@
 .DS_Store
 .ipynb_checkpoints
+
 *~
 *.gl
 *.csv
 *.npz
+*.png
 *_data
+
 notes.txt
 feedback.txt
 
+clustering_retrieval/images.sf/
 mlFoundations/
 mlFoundations/*
 iPython_notebook_basics.ipynb
+
+  
